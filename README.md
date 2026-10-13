@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="./assets/banner.png" alt="Banner - Ian Manuel Vilchez Videa" width="100%" />
+  <img src="./assets/banner.jpg" alt="Banner - Ian Manuel Vilchez Videa" width="100%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
