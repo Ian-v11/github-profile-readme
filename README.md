@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="./assets/banner.jpg" alt="Banner - Ian Manuel Vilchez Videa" width="100%" />
+  <img src="./assets/banner.jpg" alt="Banner - Ian Manuel Vilchez Bidea" width="100%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -12,11 +12,11 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hola%2C+soy+Ian+Manuel+Vilchez+Videa;Flutter+Developer+%7C+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hola%2C+soy+Ian+Manuel+Vilchez+Bidea;Flutter+Developer+%7C+Full+Stack+Developer" alt="Typing SVG" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&repeat=true&width=650&lines=T%C3%A9cnico+General+en+Computaci%C3%B3n;Apasionado+por+Flutter+%26+Dart;Desarrollo+M%C3%B3vil+%26+Web;Arquitectura+BLoC+%7C+Supabase+%7C+Firebase;Desde+Nicaragua+%F0%9F%87%B3%F0%9F%87%AE+para+el+mundo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1500&color=94A3B8&center=true&vCenter=true&repeat=true&width=650&lines=Apasionado+por+Flutter+%26+Dart;Desarrollo+M%C3%B3vil+%26+Web;Arquitectura+BLoC+%7C+Supabase+%7C+Firebase;Desde+Nicaragua+%F0%9F%87%B3%F0%9F%87%AE+para+el+mundo" alt="Typing SVG" />
 
 </div>
 
@@ -42,7 +42,7 @@
 <!-- 🔷 LÍNEA SEPARADORA                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.magnific.com/es/vectores/gato-programador-gatos-programadores" width="100%">
 
 <br/>
 
@@ -55,20 +55,21 @@
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```yaml
-nombre: Ian Manuel Vilchez Videa
-ubicación: Nicaragua 🇳🇮
-título: Técnico General en Computación
+nombre: Ian Manuel Vilchez Bidea
+ubicación: Nicaragua🇳🇮
+título: Ingeniero En Sistemas | Master en Desarrollo Con Inteligencia Artificial.
 roles:
   - Flutter Developer
   - Full Stack Developer
-enfoque: Aplicaciones Móviles & Web
+
+enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 ```
 
 <br/>
 
 🔹 Soy desarrollador enfocado en **Flutter** y **Dart**, con experiencia creando aplicaciones móviles y web conectadas a servicios backend y bases de datos.
 
-🔹 Trabajo con arquitectura **BLoC**, **Supabase**, **Firebase** y múltiples motores de bases de datos como **SQL Server**, **PostgreSQL** y **MySQL**.
+🔹 Trabajo con arquitectura **BLoC**, **Supabase**, **Firebase** y múltiples motores de bases de datos como **SQL Server** y **PostgreSQL**
 
 🔹 Me interesa desarrollar **sistemas de inventario**, **dashboards administrativos**, **aplicaciones empresariales** y **soluciones móviles** que resuelvan problemas reales.
 
