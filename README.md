@@ -101,7 +101,7 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 
 ### ⚙️ Backend & Lenguajes
 
-![Python]([https://img.shields.io/sdkman/v/:candidate](https://img.shields.io/sdkman/v/:candidate)
+![Python]([https://img.shields.io/sdkman/v/:candidate])
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 🗄️ Bases de Datos
