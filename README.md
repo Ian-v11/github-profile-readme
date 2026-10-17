@@ -218,7 +218,7 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 <tr>
 <td align="center" width="50%">
 
-<img src="./assets/certs/certificado-1.png" alt="Certificado 1" width="400"/>
+<img src="./assets/certificados/certificado  reconocimiento de Master de Desarrollo con IA_page-0001.jpg" alt="Certificado 1" width="400"/>
 <br/><br/>
 <strong>📜 Nombre del Certificado 1</strong>
 <br/>
@@ -231,7 +231,7 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 </td>
 <td align="center" width="50%">
 
-<img src="./assets/certificados/certificado reconocimiento de Master de Desarrollo con IA_page-0001.jpg" alt="Certificado 2" width="400"/>
+<img src="./assets/certificados/certificado por la Universidad Internacional Isabel I de Castilla,_page-0001.jpg" alt="Certificado 2" width="400"/>
 <br/><br/>
 <strong>📜 Nombre del Certificado 2</strong>
 <br/>
