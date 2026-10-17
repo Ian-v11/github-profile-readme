@@ -101,7 +101,7 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 
 ### ⚙️ Backend & Lenguajes
 
-![Python]([https://img.shields.io/sdkman/v/:candidate])
+
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 🗄️ Bases de Datos
@@ -109,7 +109,6 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🛠️ Herramientas & DevOps
@@ -191,53 +190,7 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔷 ESTADÍSTICAS DE GITHUB                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"> &nbsp; Estadísticas de GitHub
-
-<br/>
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&ring_color=38BDF8&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  &nbsp;
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=38BDF8&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=94A3B8" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USERNAME&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<!-- 🔹 Gráfico de actividad -->
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USERNAME&bg_color=0D1117&color=38BDF8&line=38BDF8&point=F97316&area=true&area_color=38BDF8&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribuciones" alt="Activity Graph" width="95%"/>
-
-</div>
-
-<br/>
-
-<!-- 🔹 Trofeos -->
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=TU-USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trofeos" width="90%"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🔷 CERTIFICADOS                                                           -->
