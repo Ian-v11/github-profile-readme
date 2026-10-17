@@ -231,7 +231,7 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 </td>
 <td align="center" width="50%">
 
-<img src="./assets/certs/certificado-2.png" alt="Certificado 2" width="400"/>
+<img src="./assets/certificados/certificado reconocimiento de Master de Desarrollo con IA_page-0001.jpg" alt="Certificado 2" width="400"/>
 <br/><br/>
 <strong>📜 Nombre del Certificado 2</strong>
 <br/>
