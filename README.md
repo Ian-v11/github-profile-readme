@@ -220,9 +220,9 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 
 <img src="./assets/certificados/certificado  reconocimiento de Master de Desarrollo con IA_page-0001.jpg" alt="Certificado 1" width="400"/>
 <br/><br/>
-<strong>📜 Nombre del Certificado 1</strong>
+<strong> Certificado Master de Desarollo con IA </strong>
 <br/>
-<sub>📌 Plataforma / Institución</sub>
+<sub>Big school</sub>
 <br/>
 <a href="ENLACE-DE-VERIFICACIÓN">
   <img src="https://img.shields.io/badge/🔗_Ver_Certificado-0D1117?style=flat-square&logoColor=white" alt="Ver"/>
@@ -233,9 +233,9 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 
 <img src="./assets/certificados/certificado por la Universidad Internacional Isabel I de Castilla,_page-0001.jpg" alt="Certificado 2" width="400"/>
 <br/><br/>
-<strong>📜 Nombre del Certificado 2</strong>
+<strong> Certificado Experto en Desarrollo de Software Con IA </strong>
 <br/>
-<sub>📌 Plataforma / Institución</sub>
+<sub> Universidad Internacional Reina Isabel I de Castilla </sub>
 <br/>
 <a href="ENLACE-DE-VERIFICACIÓN">
   <img src="https://img.shields.io/badge/🔗_Ver_Certificado-0D1117?style=flat-square&logoColor=white" alt="Ver"/>
