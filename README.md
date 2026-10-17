@@ -246,11 +246,11 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 <tr>
 <td align="center" width="50%">
 
-<img src="./assets/certs/certificado-3.png" alt="Certificado 3" width="400"/>
+<img src="./assets/certificados/Certificado de POO_page-0001.jpg" alt="Certificado 3" width="400"/>
 <br/><br/>
-<strong>📜 Nombre del Certificado 3</strong>
+<strong>Certificado Java y POO desde cero </strong>
 <br/>
-<sub>📌 Plataforma / Institución</sub>
+<sub> Mouredev.pro</sub>
 <br/>
 <a href="ENLACE-DE-VERIFICACIÓN">
   <img src="https://img.shields.io/badge/🔗_Ver_Certificado-0D1117?style=flat-square&logoColor=white" alt="Ver"/>
@@ -259,11 +259,11 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 </td>
 <td align="center" width="50%">
 
-<img src="./assets/certs/certificado-4.png" alt="Certificado 4" width="400"/>
+<img src="./assets/certificados/Curso de bash mouredev pro_page-0001.jpg" alt="Certificado 4" width="400"/>
 <br/><br/>
-<strong>📜 Nombre del Certificado 4</strong>
+<strong>Certificado Bash/Shell, terminal y linea de comandos desde cero</strong>
 <br/>
-<sub>📌 Plataforma / Institución</sub>
+<sub>Mouredev.pro</sub>
 <br/>
 <a href="ENLACE-DE-VERIFICACIÓN">
   <img src="https://img.shields.io/badge/🔗_Ver_Certificado-0D1117?style=flat-square&logoColor=white" alt="Ver"/>
