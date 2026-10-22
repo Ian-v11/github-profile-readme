@@ -57,7 +57,7 @@
 ```yaml
 nombre: Ian Manuel Vilchez Bidea
 ubicación: Nicaragua🇳🇮
-título: Ingeniero En Sistemas | Master en Desarrollo Con Inteligencia Artificial.
+título: Ingeniero en Sistemas | Master en Desarrollo con Inteligencia Artificial | Experto en Desarrollo de Software con IA.
 roles:
   - Flutter Developer
   - Full Stack Developer
