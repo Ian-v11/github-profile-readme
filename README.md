@@ -272,6 +272,37 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 
 </td>
 </tr>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="./assets/certificados/Certificado de POO_page-0001.jpg" alt="Certificado 3" width="400"/>
+<br/><br/>
+<strong>Certificado Java y POO desde cero </strong>
+<br/>
+<sub> Mouredev.pro</sub>
+<br/>
+<a href="ENLACE-DE-VERIFICACIÓN">
+  <img src="https://img.shields.io/badge/🔗_Ver_Certificado-0D1117?style=flat-square&logoColor=white" alt="Ver"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+<img src="./assets/certificados/Curso de bash mouredev pro_page-0001.jpg" alt="Certificado 4" width="400"/>
+<br/><br/>
+<strong>Certificado Bash/Shell, terminal y linea de comandos desde cero</strong>
+<br/>
+<sub>Mouredev.pro</sub>
+<br/>
+<a href="ENLACE-DE-VERIFICACIÓN">
+  <img src="https://img.shields.io/badge/🔗_Ver_Certificado-0D1117?style=flat-square&logoColor=white" alt="Ver"/>
+</a>
+
+</td>
+</tr>
 </table>
 
 </div>
