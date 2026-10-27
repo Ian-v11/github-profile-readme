@@ -291,7 +291,7 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 </td>
 <td align="center" width="50%">
 
-<img src="./assets/certificados/assets/certificados/Ian Vilchez bidea - GIT_page-0001.jpg" alt="Certificado 4" width="400"/>
+<img src="./assets/certificados/Ian Vilchez bidea - GIT_page-0001.jpg" alt="Certificado 4" width="400"/>
 <br/><br/>
 <strong>Certificado Git y Github desde cero</strong>
 <br/>
