@@ -321,11 +321,11 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 <tr>
 <td align="center" width="50%">
 
-<img src="./assets/certs/certificado-5.png" alt="Certificado 5" width="400"/>
+<img src="./assets/certificados/Certificado RPA_page-0001.jpg" alt="Certificado 5" width="400"/>
 <br/><br/>
-<strong>📜 Nombre del Certificado 5</strong>
+<strong>Certificado Robot Process Automation</strong>
 <br/>
-<sub>📌 Plataforma / Institución</sub>
+<sub>📌 Uipath Comunnity/ UAM</sub>
 <br/>
 <a href="ENLACE-DE-VERIFICACIÓN">
   <img src="https://img.shields.io/badge/🔗_Ver_Certificado-0D1117?style=flat-square&logoColor=white" alt="Ver"/>
@@ -334,11 +334,11 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 </td>
 <td align="center" width="50%">
 
-<img src="./assets/certs/certificado-6.png" alt="Certificado 6" width="400"/>
+<img src="./assets/certificados/Certificado de desarrollo con IA25_page-0001.jpg" alt="Certificado 6" width="400"/>
 <br/><br/>
-<strong>📜 Nombre del Certificado 6</strong>
+<strong> Curso de Iniciacion de Desarrollo IA</strong>
 <br/>
-<sub>📌 Plataforma / Institución</sub>
+<sub>Big School </sub>
 <br/>
 <a href="ENLACE-DE-VERIFICACIÓN">
   <img src="https://img.shields.io/badge/🔗_Ver_Certificado-0D1117?style=flat-square&logoColor=white" alt="Ver"/>
