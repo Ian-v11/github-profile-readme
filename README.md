@@ -232,11 +232,11 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 </td>
 <td align="center" width="50%">
 
-<img src="./assets/certificados/certificado por la Universidad Internacional Isabel I de Castilla,_page-0001.jpg" alt="Certificado 2" width="400"/>
+<img src="./assets/certificados/titulo.jpg" alt="Certificado 2" width="400"/>
 <br/><br/>
-<strong> Certificado Experto en Desarrollo de Software Con IA </strong>
+<strong> Titulo de Ingeniara En sistemas </strong>
 <br/>
-<sub> Universidad Internacional Reina Isabel I de Castilla </sub>
+<sub>URACCAN</sub>
 <br/>
 <a href="ENLACE-DE-VERIFICACIÓN">
   <img src="https://img.shields.io/badge/🔗_Ver_Certificado-0D1117?style=flat-square&logoColor=white" alt="Ver"/>
@@ -247,11 +247,11 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 <tr>
 <td align="center" width="50%">
 
-<img src="./assets/certificados/Certificado de POO_page-0001.jpg" alt="Certificado 3" width="400"/>
+<img src="./assets/certificados/certificado por la Universidad Internacional Isabel I de Castilla,_page-0001.jpg" alt="Certificado 3" width="400"/>
 <br/><br/>
-<strong>Certificado Java y POO desde cero </strong>
+<strong>Certificado Experto en Desarrollo de Software Con IA </strong>
 <br/>
-<sub> Mouredev.pro</sub>
+<sub>Universidad Internacional Reina Isabel I de Castilla</sub>
 <br/>
 <a href="ENLACE-DE-VERIFICACIÓN">
   <img src="https://img.shields.io/badge/🔗_Ver_Certificado-0D1117?style=flat-square&logoColor=white" alt="Ver"/>
@@ -291,9 +291,9 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 </td>
 <td align="center" width="50%">
 
-<img src="./assets/certificados/Curso de bash mouredev pro_page-0001.jpg" alt="Certificado 4" width="400"/>
+<img src="./assets/certificados/assets/certificados/Ian Vilchez bidea - GIT_page-0001.jpg" alt="Certificado 4" width="400"/>
 <br/><br/>
-<strong>Certificado Bash/Shell, terminal y linea de comandos desde cero</strong>
+<strong>Certificado Git y Github desde cero</strong>
 <br/>
 <sub>Mouredev.pro</sub>
 <br/>
