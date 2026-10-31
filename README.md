@@ -379,13 +379,13 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-LINKEDIN)
   &nbsp;
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-EMAIL@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianvilchez11@gmail.com)
   &nbsp;
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU-USERNAME)
   &nbsp;
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU-INSTAGRAM)
   &nbsp;
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://TU-PORTFOLIO.com)
+
 
 </div>
 
@@ -435,7 +435,7 @@ enfoque: Aplicaciones Móviles,sistemas Desktop & Web
 
 <div align="center">
 
-  <sub>⚡ Diseñado con pasión por <strong>Ian Manuel Vilchez Videa</strong> 🇳🇮</sub>
+  <sub>⚡ Diseñado con pasión por <strong>Ian Manuel Vilchez Bidea</strong> 🇳🇮</sub>
   <br/>
   <sub>💙 Si te gustó mi perfil, ¡no olvides dejar una ⭐!</sub>
 
